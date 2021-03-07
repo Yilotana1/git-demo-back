@@ -2,9 +2,7 @@ sword and spear
 wall of shields
 standing strong 
 on this their chosen field
-
-My own solving of conflict of feature and main branches
-
-MAIN MAIN MAIN MAIN MAIN
-MAIN MAIN MAIN MAIN MAIN
-MAIN MAIN MAIN MAIN MAIN
+We're marching into destiny!
+------------------------------------
+I have changed this file in working directory!
+MAIN CONTENT HERE
