@@ -5,4 +5,4 @@ on this their chosen field
 We're marching into destiny!
 ------------------------------------
 I have changed this file in working directory!
-MAIN CONTENT HERE
+FEATURE CONTENT HERE
