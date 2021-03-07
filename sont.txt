@@ -2,9 +2,7 @@ sword and spear
 wall of shields
 standing strong 
 on this their chosen field
-
-
-
-FEATURE FEATURE FEATURE FEATURE FEATURE
-FEATURE FEATURE FEATURE FEATURE FEATURE
-FEATURE FEATURE FEATURE FEATURE FEATURE
+We're marching into destiny!
+------------------------------------
+I have changed this file in working directory!
+FEATURE CONTENT HERE
