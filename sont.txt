@@ -4,7 +4,4 @@ standing strong
 on this their chosen field
 We're marching into destiny!
 ------------------------------------
-I have changed this file in working directory!
-FEATURE CONTENT HERE
-
-This content is to add to feature branch after rebase!
+Fix conflict content
